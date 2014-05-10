@@ -40,12 +40,9 @@ index 0000000..eb10387
 +      An IMAP mail server stores messages and allows clients to fetch messages to the local computer when asked for.
 +    </p>
 +    <p>
-+      It prioritizes efficiency and speed above all other goals, respecting open standards and protocols.
++      It prioritizes efficiency, speed and open standards above other goals.
 +      Trojitá also aims to be multi-platform, and functions well on everything from big desktop computers to small cellphones.
-+    </p>
-+    <p>
-+      Trojitá is a stand-alone program, not part of a "personal information manager" suite. It's still in the early stages of development,
-+      and intends to remain true to its goals of efficiency, speed, and simplicity.
++      Trojitá is a stand-alone program, not part of a "personal information manager" suite.
 +    </p>
 +    <p>What could make Trojitá interesting for you:</p>
 +    <ul>
