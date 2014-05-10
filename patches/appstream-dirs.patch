@@ -1,0 +1,31 @@
+diff --git a/kde-modules/KDEInstallDirs.cmake b/kde-modules/KDEInstallDirs.cmake
+index 9efa90f..c0ccc2d 100644
+--- a/kde-modules/KDEInstallDirs.cmake
++++ b/kde-modules/KDEInstallDirs.cmake
+@@ -71,6 +71,10 @@
+ #     XDG directory (``share/desktop-directories``)
+ # ``XDG_MIME_INSTALL_DIR``
+ #     mimetype XML files (``share/mime/packages``)
++# ``XDG_METADATA_INSTALL_DIR``
++#     AppStream upstream XML files (``share/appdata``)
++# ``XDG_METADATA_ARCH_INSTALL_DIR``
++#     AppStream upstream XML files, which need to be multiarch-aware (``share/appdata/<triplet>``)
+ # ``SYSCONF_INSTALL_DIR``
+ #     sysconfig files (``etc``)
+ # ``CONFIG_INSTALL_DIR``
+@@ -225,9 +229,12 @@ _set_fancy(TEMPLATES_INSTALL_DIR     "${SHARE_INSTALL_PREFIX}/templates"
+ _set_fancy(WALLPAPER_INSTALL_DIR     "${SHARE_INSTALL_PREFIX}/wallpapers"          "The install dir for wallpapers")
+ _set_fancy(KCONF_UPDATE_INSTALL_DIR  "${DATA_INSTALL_DIR}/kconf_update"            "The kconf_update install dir")
+ 
+-_set_fancy(XDG_APPS_INSTALL_DIR      "${SHARE_INSTALL_PREFIX}/applications"        "The XDG apps dir")
+-_set_fancy(XDG_DIRECTORY_INSTALL_DIR "${SHARE_INSTALL_PREFIX}/desktop-directories" "The XDG directory")
+-_set_fancy(XDG_MIME_INSTALL_DIR      "${SHARE_INSTALL_PREFIX}/mime/packages"       "The install dir for the xdg mimetypes")
++_set_fancy(XDG_APPS_INSTALL_DIR          "${SHARE_INSTALL_PREFIX}/applications"        "The XDG apps dir")
++_set_fancy(XDG_DIRECTORY_INSTALL_DIR     "${SHARE_INSTALL_PREFIX}/desktop-directories" "The XDG directory")
++_set_fancy(XDG_MIME_INSTALL_DIR          "${SHARE_INSTALL_PREFIX}/mime/packages"       "The install dir for the xdg mimetypes")
++_set_fancy(XDG_METADATA_INSTALL_DIR       "${SHARE_INSTALL_PREFIX}/appdata"             "The install dir for AppStream upstream metadata")
++_set_fancy(XDG_METADATA_ARCH_INSTALL_DIR  "${SHARE_INSTALL_PREFIX}/appdata/${CMAKE_LIBRARY_ARCHITECTURE}" "The install dir for multiarch-compatible AppStream upstream metadata")
++
+ 
+ _set_fancy(SYSCONF_INSTALL_DIR       "etc"                                         "The sysconfig install dir (default etc)")
+ _set_fancy(CONFIG_INSTALL_DIR        "${SYSCONF_INSTALL_DIR}/xdg"                  "The config file install dir")
