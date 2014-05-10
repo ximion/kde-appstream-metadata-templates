@@ -1,0 +1,80 @@
+From 488f7ee43cca967caf7f896322ea92b04eb4b65b Mon Sep 17 00:00:00 2001
+From: Matthias Klumpp <matthias@tenstral.net>
+Date: Tue, 6 May 2014 22:34:40 +0200
+Subject: [PATCH] Add AppStream metadata file for Trojita GUI
+
+---
+ CMakeLists.txt              |  1 +
+ src/Gui/trojita.appdata.xml | 48 +++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 49 insertions(+)
+ create mode 100644 src/Gui/trojita.appdata.xml
+
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 489c2ad..5461818 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -750,6 +750,7 @@ if(WITH_DESKTOP)
+     copy_desktop_file_without_cruft("${CMAKE_CURRENT_SOURCE_DIR}/src/Gui/trojita.desktop" "${CMAKE_CURRENT_BINARY_DIR}/trojita-DesktopGui.desktop")
+     install(TARGETS trojita be.contacts RUNTIME DESTINATION bin)
+     install(FILES ${CMAKE_CURRENT_BINARY_DIR}/trojita-DesktopGui.desktop DESTINATION share/applications/ RENAME trojita.desktop)
++    install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/Gui/trojita.appdata.xml DESTINATION share/appdata/)
+     install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/icons/trojita.png DESTINATION share/icons/hicolor/32x32/apps/)
+     install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/icons/trojita.svg DESTINATION share/icons/hicolor/scalable/apps/)
+ endif()
+diff --git a/src/Gui/trojita.appdata.xml b/src/Gui/trojita.appdata.xml
+new file mode 100644
+index 0000000..eb10387
+--- /dev/null
++++ b/src/Gui/trojita.appdata.xml
+@@ -0,0 +1,48 @@
++<?xml version="1.0" encoding="utf-8"?>
++<component type="desktop">
++  <id>trojita.desktop</id>
++  <metadata_license>CC0-1.0</metadata_license>
++  <project_license>GPL-2.0+</project_license>
++  <name>Trojitá</name>
++  <summary>IMAP E-mail Client</summary>
++  <description>
++    <p>
++      Trojitá is an email program ("client") specialized in giving fast and efficient access to mailboxes over the IMAP protocol.
++      An IMAP mail server stores messages and allows clients to fetch messages to the local computer when asked for.
++    </p>
++    <p>
++      It prioritizes efficiency and speed above all other goals, respecting open standards and protocols.
++      Trojitá also aims to be multi-platform, and functions well on everything from big desktop computers to small cellphones.
++    </p>
++    <p>
++      Trojitá is a stand-alone program, not part of a "personal information manager" suite. It's still in the early stages of development,
++      and intends to remain true to its goals of efficiency, speed, and simplicity.
++    </p>
++    <p>What could make Trojitá interesting for you:</p>
++    <ul>
++      <li>Very fast and robust IMAP core</li>
++      <li>Standards compliance is a design goal</li>
++      <li>On-demand message list and body part loading ("lazy loading")</li>
++      <li>Offline IMAP support</li>
++      <li>Support for bandwidth-saving mode aimed at mobile users with expensive connection</li>
++      <li>IMAP over SSH -- instead of going over an SSL socket, the server could be accessed via SSH</li>
++      <li>Safe and robust dealing with HTML mail</li>
++    </ul>
++  </description>
++  <url type="homepage">http://trojita.flaska.net/</url>
++  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=trojita&amp;format=guided</url>
++  <screenshots>
++    <screenshot type="default">
++      <image>http://trojita.flaska.net/trojita-2013-01-09--overview.png</image>
++    </screenshot>
++    <screenshot>
++      <caption>The standard interface to compose new mails.</caption>
++      <image>http://trojita.flaska.net/trojita-2013-01-09--composer.png</image>
++    </screenshot>
++  </screenshots>
++  <project_group>KDE</project_group>
++  <provides>
++    <binary>trojita</binary>
++    <binary>be.contacts</binary>
++  </provides>
++</component>
+--
+1.9.1
+
