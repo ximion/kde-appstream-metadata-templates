@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>ThreadWeaver</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1+</project_license>
+  <name>ThreadWeaver</name>
+  <summary>ThreadWeaver Library for the KDE Platform</summary>
+  <description>
+    <p>
+      ThreadWeaver is a helper for multithreaded programming.
+      It uses a job-based interface to queue tasks and execute them in an efficient way.
+      You simply divide the workload into jobs, state the dependencies between the jobs and ThreadWeaver
+      will work out the most efficient way of dividing the work between threads
+      within a set of resource limits.
+    </p>
+  </description>
+  <url type="homepage">http://kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/buglist.cgi?product=frameworks-threadweaver&amp;component=general</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <library>libthreadweaver.so.4</library>
+  </provides>
+</component>
