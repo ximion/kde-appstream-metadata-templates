@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>konquest.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>Konquest</name>
   <summary>Galactic Strategy Game</summary>
   <description>
@@ -12,7 +12,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/konquest/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="721" width="654">http://kde.org/images/screenshots/konquest.png</image>
+      <image>http://kde.org/images/screenshots/konquest.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

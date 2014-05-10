@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kfind.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KFind</name>
   <summary>Find Files/Folders</summary>
@@ -13,7 +13,7 @@
   <url type="help">http://docs.kde.org/stable/en/applications/kfind/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="504" width="745">http://kde.org/images/screenshots/kfind.png</image>
+      <image>http://kde.org/images/screenshots/kfind.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

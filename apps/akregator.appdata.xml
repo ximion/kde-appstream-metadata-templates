@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>akregator.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>Akregator</name>
   <summary>Feed Reader</summary>
   <description>
@@ -12,7 +12,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdepim/akregator/</url>
   <screenshots>
     <screenshot type="default">
-      <image height="678" width="1113">http://kde.org/images/screenshots/akregator.png</image>
+      <image>http://kde.org/images/screenshots/akregator.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

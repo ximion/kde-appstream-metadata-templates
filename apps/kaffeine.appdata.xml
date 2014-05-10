@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kaffeine.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>Kaffeine</name>
   <summary>Media Player</summary>
@@ -12,7 +12,7 @@
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaffeine</url>
   <screenshots>
     <screenshot type="default">
-      <image height="455" width="763">http://kde.org/images/screenshots/kaffeine.png</image>
+      <image>http://kde.org/images/screenshots/kaffeine.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

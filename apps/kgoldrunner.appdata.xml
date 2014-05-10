@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kgoldrunner.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KGoldrunner</name>
   <summary>Hunt Gold, Dodge Enemies and Solve Puzzles</summary>
@@ -23,7 +23,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/kgoldrunner/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="680" width="706">http://kde.org/images/screenshots/kgoldrunner.png</image>
+      <image>http://kde.org/images/screenshots/kgoldrunner.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

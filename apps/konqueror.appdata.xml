@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>konqueror.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>Konqueror</name>
   <summary>KDE File Manager &amp; Web Browser</summary>
   <description>
@@ -21,7 +21,7 @@
   <url type="help">http://docs.kde.org/stable/en/applications/konqueror/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="493" width="800">http://kde.org/images/screenshots/konqueror.png</image>
+      <image>http://kde.org/images/screenshots/konqueror.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

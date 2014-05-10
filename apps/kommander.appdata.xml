@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kommander.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Kommander</name>
   <summary>Dynamic Dialog Editor</summary>
@@ -12,7 +12,7 @@
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kommander</url>
   <screenshots>
     <screenshot type="default">
-      <image height="716" width="1059">http://kde.org/images/screenshots/kommander.png</image>
+      <image>http://kde.org/images/screenshots/kommander.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

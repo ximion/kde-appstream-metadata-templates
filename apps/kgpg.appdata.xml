@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kgpg.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KGpg</name>
   <summary>Encryption Tool</summary>
@@ -13,7 +13,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdeutils/kgpg/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="621" width="859">http://kde.org/images/screenshots/kgpg.png</image>
+      <image>http://kde.org/images/screenshots/kgpg.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

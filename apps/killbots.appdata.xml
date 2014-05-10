@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>killbots.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>Killbots</name>
   <description>
@@ -12,7 +12,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/killbots/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="687" width="739">http://kde.org/images/screenshots/killbots.png</image>
+      <image>http://kde.org/images/screenshots/killbots.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

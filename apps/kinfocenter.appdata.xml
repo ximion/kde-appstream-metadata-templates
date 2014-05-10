@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kinfocenter.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KInfoCenter</name>
   <summary>Info Center</summary>
@@ -15,7 +15,7 @@
   <url type="help">http://docs.kde.org/stable/en/kde-workspace/kinfocenter/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="605" width="871">http://kde.org/images/screenshots/kinfocenter.png</image>
+      <image>http://kde.org/images/screenshots/kinfocenter.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>printerapplet.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>Printer Applet</name>
   <summary>System tray icon for managing print jobs</summary>
   <description>
@@ -12,7 +12,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdeutils/printer-applet/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="381" width="934">http://kde.org/images/screenshots/printerapplet.png</image>
+      <image>http://kde.org/images/screenshots/printerapplet.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

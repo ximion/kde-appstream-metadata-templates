@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>gwenview.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Gwenview</name>
   <summary>Image Viewer</summary>
@@ -20,7 +20,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegraphics/gwenview/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="671" width="1041">http://kde.org/images/screenshots/gwenview.png</image>
+      <image>http://kde.org/images/screenshots/gwenview.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

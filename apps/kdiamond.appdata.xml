@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kdiamond.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KDiamond</name>
   <summary>Three-in-a-row game</summary>
@@ -13,7 +13,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/kdiamond/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="469" width="351">http://kde.org/images/screenshots/kdiamond.png</image>
+      <image>http://kde.org/images/screenshots/kdiamond.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

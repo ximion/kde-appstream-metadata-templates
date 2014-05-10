@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>tellico.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>Tellico</name>
   <summary>Collection Manager</summary>
@@ -30,7 +30,7 @@
   <url type="help">http://docs.kde.org/development/en/extragear-office/tellico/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="627" width="867">http://kde.org/images/screenshots/tellico.png</image>
+      <image>http://kde.org/images/screenshots/tellico.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

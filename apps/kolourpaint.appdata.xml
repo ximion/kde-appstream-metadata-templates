@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kolourpaint.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>Custom</project_license>
   <name>KolourPaint</name>
   <summary>Paint Program</summary>
@@ -21,7 +21,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegraphics/kolourpaint/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="571" width="805">http://kde.org/images/screenshots/kolourpaint.png</image>
+      <image>http://kde.org/images/screenshots/kolourpaint.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

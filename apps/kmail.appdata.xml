@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kmail.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>KMail</name>
   <summary>Mail Client</summary>
   <description>
@@ -37,7 +37,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdepim/kmail/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="719" width="1101">http://kde.org/images/screenshots/kmail.png</image>
+      <image>http://kde.org/images/screenshots/kmail.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

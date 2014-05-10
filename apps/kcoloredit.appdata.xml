@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kcoloredit.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>KColorEdit</name>
   <summary>Color Palette Editor</summary>
   <description>
@@ -25,7 +25,7 @@
   <url type="help">http://docs.kde.org/development/en/extragear-graphics/kcoloredit/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="621" width="928">http://kde.org/images/screenshots/kcoloredit.png</image>
+      <image>http://kde.org/images/screenshots/kcoloredit.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

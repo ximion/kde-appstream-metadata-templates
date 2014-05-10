@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kpatience.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>KPatience</name>
   <summary>Patience Card Game</summary>
@@ -13,7 +13,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/kpat/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="697" width="989">http://kde.org/images/screenshots/kpatience.png</image>
+      <image>http://kde.org/images/screenshots/kpatience.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

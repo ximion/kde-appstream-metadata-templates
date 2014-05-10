@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>ksudoku.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>KSudoku</name>
   <summary>Sudoku Game</summary>
@@ -13,7 +13,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegames/ksudoku/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="500" width="473">http://kde.org/images/screenshots/ksudoku.png</image>
+      <image>http://kde.org/images/screenshots/ksudoku.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

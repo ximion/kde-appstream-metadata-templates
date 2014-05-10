@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kalarm.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KAlarm</name>
   <summary>Personal Alarm Scheduler</summary>
@@ -21,7 +21,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdepim/kalarm/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="407" width="769">http://kde.org/images/screenshots/kalarm.png</image>
+      <image>http://kde.org/images/screenshots/kalarm.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

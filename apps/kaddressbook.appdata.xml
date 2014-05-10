@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kaddressbook.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>KAddressBook</name>
   <summary>Contact Manager</summary>
   <description>
@@ -21,7 +21,7 @@
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaddressbook</url>
   <screenshots>
     <screenshot type="default">
-      <image height="764" width="1100">http://kde.org/images/screenshots/kaddressbook.png</image>
+      <image>http://kde.org/images/screenshots/kaddressbook.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

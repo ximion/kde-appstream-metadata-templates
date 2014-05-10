@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>knemo.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>KNemo</name>
   <summary>Network Monitor</summary>
   <description>
@@ -19,7 +19,7 @@
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knemo</url>
   <screenshots>
     <screenshot type="default">
-      <image height="678" width="836">http://kde.org/images/screenshots/knemo.png</image>
+      <image>http://kde.org/images/screenshots/knemo.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

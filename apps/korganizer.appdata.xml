@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>korganizer.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KOrganizer</name>
   <summary>Personal Organizer</summary>
@@ -24,7 +24,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdepim/korganizer/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="646" width="928">http://kde.org/images/screenshots/korganizer.png</image>
+      <image>http://kde.org/images/screenshots/korganizer.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

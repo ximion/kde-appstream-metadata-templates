@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kruler.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KRuler</name>
   <summary>Screen Ruler</summary>
@@ -20,7 +20,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdegraphics/kruler/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="194" width="669">http://kde.org/images/screenshots/kruler.png</image>
+      <image>http://kde.org/images/screenshots/kruler.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

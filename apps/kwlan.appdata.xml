@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kwlan.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL_V2</project_license>
   <name>Kwlan</name>
   <summary> Wireless Lan Manager</summary>
@@ -17,6 +17,11 @@
   </description>
   <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kwlan</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/kwlan.png</image>
+    </screenshot>
+  </screenshots>
   <project_group>KDE</project_group>
   <provides>
     <binary>kwlan</binary>

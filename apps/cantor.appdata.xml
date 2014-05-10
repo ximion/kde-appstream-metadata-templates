@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>cantor.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Cantor</name>
   <summary>KDE Frontend to Mathematical Software</summary>
@@ -22,7 +22,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdeedu/cantor/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="772" width="996">http://kde.org/images/screenshots/cantor.png</image>
+      <image>http://kde.org/images/screenshots/cantor.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

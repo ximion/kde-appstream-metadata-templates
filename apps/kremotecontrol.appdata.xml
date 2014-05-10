@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kremotecontrol.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>KRemoteControl</name>
   <summary>Remote Controls</summary>
   <description>
@@ -16,6 +16,11 @@
   <url type="homepage">http://utils.kde.org/projects/kremotecontrol/</url>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kremotecontrol</url>
   <url type="help">http://docs.kde.org/stable/en/kdeutils/kcontrol/kremotecontrol/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/kremotecontrol.png</image>
+    </screenshot>
+  </screenshots>
   <project_group>KDE</project_group>
   <provides>
     <binary>kremotecontrol</binary>

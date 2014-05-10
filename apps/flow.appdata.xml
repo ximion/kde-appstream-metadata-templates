@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>flow.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <name>Flow</name>
   <summary>Flowchart &amp; Diagram Editing</summary>
   <description>
@@ -17,7 +17,7 @@
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=flow</url>
   <screenshots>
     <screenshot type="default">
-      <image height="674" width="900">http://kde.org/images/screenshots/flow.png</image>
+      <image>http://kde.org/images/screenshots/flow.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>digikam.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>digiKam</name>
   <summary>Photo Management Program</summary>
@@ -31,7 +31,7 @@
   <url type="help">http://docs.kde.org/development/en/extragear-graphics/digikam/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="687" width="1098">http://kde.org/images/screenshots/digikam.png</image>
+      <image>http://kde.org/images/screenshots/digikam.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

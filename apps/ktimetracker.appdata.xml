@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>ktimetracker.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KTimeTracker</name>
   <summary>Personal Time Tracker</summary>
@@ -19,7 +19,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdepim/ktimetracker/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="674" width="1042">http://kde.org/images/screenshots/ktimetracker.png</image>
+      <image>http://kde.org/images/screenshots/ktimetracker.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>

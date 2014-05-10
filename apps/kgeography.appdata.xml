@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kgeography.desktop</id>
-  <metadata_license>CC0-1.0</metadata_license>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KGeography</name>
   <summary>Geography Trainer</summary>
@@ -23,7 +23,7 @@
   <url type="help">http://docs.kde.org/stable/en/kdeedu/kgeography/index.html</url>
   <screenshots>
     <screenshot type="default">
-      <image height="532" width="809">http://kde.org/images/screenshots/kgeography.png</image>
+      <image>http://kde.org/images/screenshots/kgeography.png</image>
     </screenshot>
   </screenshots>
   <project_group>KDE</project_group>
