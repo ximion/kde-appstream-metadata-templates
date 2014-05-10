@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmplayer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMPlayer</name>
+  <summary>Media Player</summary>
+  <description>
+    <p>KMPlayer is a video player plugin for Konqueror using Phonon, MPlayer, Xine, a NS Plugin loader or GStreamer. It also works as a standalone application</p>
+    <p>Features:</p>
+    <ul>
+      <li>Plays video from file or web site</li>
+      <li>Popup controls stay neatly out of sight until you want them</li>
+      <li>Can use plugins to play QuickTime, MS Media Player and RealPlayer files</li>
+      <li>Supports bookmarking</li>
+      <li>Supports recording if required backends are installed</li>
+      <li>Play from several DVD formats and TV</li>
+    </ul>
+  </description>
+  <url type="homepage">http://kmplayer.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmplayer</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-multimedia/kmplayer/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="573" width="719">http://kde.org/images/screenshots/kmplayer.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmplayer</binary>
+  </provides>
+</component>

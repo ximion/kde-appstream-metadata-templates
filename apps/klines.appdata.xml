@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>klines.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KLines</name>
+  <summary>Tactical Game</summary>
+  <description>
+    <p>KLines is a simple but highly addictive one player game. The player has to move the colored balls around the game board, gathering them into the lines of the same color by five. Once the line is complete it is removed from the board, therefore freeing precious space. In the same time the new balls keep arriving by three after each move, filling up the game board.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=klines</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=klines</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/klines/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="530" width="510">http://kde.org/images/screenshots/klines.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>klines</binary>
+  </provides>
+</component>

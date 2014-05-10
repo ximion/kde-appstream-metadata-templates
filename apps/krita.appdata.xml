@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>krita.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Krita</name>
+  <summary>Painting and Image Editing</summary>
+  <description>
+    <p>Krita is a bitmap imaging suite included as an integrated part of Koffice. It can be used for a range of image creation ranging from natural media painting, sketching and photo editing. It supports many image formats, colour modes and profiles.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Natural media paint tools</li>
+      <li>Non destructive filter layers</li>
+      <li>Filter brushes</li>
+      <li>Ability to combine both bitmap and vector art</li>
+      <li>Highly configurable interface</li>
+      <li>CMYK, LAB and other colour modes</li>
+      <li>A highly flexible brush engine</li>
+      <li>Tight integration with the rest of the Koffice suite.</li>
+    </ul>
+  </description>
+  <url type="homepage">http://krita.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=krita</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="730" width="1024">http://kde.org/images/screenshots/krita.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>krita</binary>
+  </provides>
+</component>

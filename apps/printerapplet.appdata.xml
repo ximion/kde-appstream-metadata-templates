@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>printerapplet.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Printer Applet</name>
+  <summary>System tray icon for managing print jobs</summary>
+  <description>
+    <p>Printer Applet is a system tray utility that shows current print jobs, printer warnings and errors and displays when newly plugged in printers has been auto-configured.</p>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/printer-applet/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=printerapplet</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/printer-applet/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="381" width="934">http://kde.org/images/screenshots/printerapplet.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>printerapplet</binary>
+  </provides>
+</component>

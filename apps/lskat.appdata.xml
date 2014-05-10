@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>lskat.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>LsKat</name>
+  <summary>Card Game</summary>
+  <description>
+    <p>Lieutnant Skat (from German &quot;Offiziersskat&quot;) is a fun and engaging card game for two players, where the second player is either live opponent, or a built in artificial intelligence.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=lskat</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=lskat</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/lskat/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="756" width="912">http://kde.org/images/screenshots/lskat.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>lskat</binary>
+  </provides>
+</component>

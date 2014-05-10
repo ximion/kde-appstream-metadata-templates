@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kalzium.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kalzium</name>
+  <summary>Periodic Table of Elements</summary>
+  <description>
+    <p>Kalzium is your digital replacement for the periodic table on paper. It ss a program that visualizes the Periodic Table of Elements (PSE) and includes basic information about all common elements in the PSE. It has a gained much more functions over time.</p>
+    <p>Features:</p>
+    <ul>
+      <li>versatile overview of all important data from the elements like melting points, electron affinity, electron negativity, electron configuration, radii, mass, ionisation energy</li>
+      <li>tool to visualize the spectral lines of each elements</li>
+      <li>different colored views to the PSE: separation of the different blocks, Year simulator, Temperature simulator</li>
+      <li>Molecular weight calculator</li>
+      <li>an Isotopetable</li>
+      <li>3D molecule editor, with a load and save functionality</li>
+      <li>a equation solver for stoichiometric problems</li>
+      <li>filetype conversion for different types of chemical programs</li>
+      <li>tool to produce a comprehesive list of all Risk_and_Safety_Statements</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kalzium</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/kalzium/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="572" width="1024">http://kde.org/images/screenshots/kalzium.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kalzium</binary>
+  </provides>
+</component>

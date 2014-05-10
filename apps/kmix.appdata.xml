@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmix.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMix</name>
+  <summary>Sound Mixer</summary>
+  <description>
+    <p>KMix is an application to allow you to change the volume of your sound card. Though small, it is full-featured, and it supports several platforms and sound drivers.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Support for ALSA and OSS sound systems</li>
+      <li>Plasma Desktop integrated on-screen-display for volume changes</li>
+    </ul>
+  </description>
+  <url type="homepage">http://multimedia.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmix</url>
+  <url type="help">http://docs.kde.org/stable/en/kdemultimedia/kmix/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="464" width="543">http://kde.org/images/screenshots/kmix.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmix</binary>
+  </provides>
+</component>

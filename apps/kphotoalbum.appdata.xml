@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kphotoalbum.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KPhotoAlbum</name>
+  <summary>Photo Album</summary>
+  <description>
+    <p>KPhotoAlbum is a tool which you can use to easily sort your images. It provides many capabilities to make sorting and viewing images easy.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Images and videos are supported</li>
+      <li>Searching feature</li>
+      <li>Annotation capabilities (identifying people, location, keywords, or other descriptions)</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.kphotoalbum.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kphotoalbum</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-graphics/kphotoalbum/index.html</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kphotoalbum</binary>
+  </provides>
+</component>

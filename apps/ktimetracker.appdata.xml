@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ktimetracker.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KTimeTracker</name>
+  <summary>Personal Time Tracker</summary>
+  <description>
+    <p>KTimeTracker tracks time spent on various tasks. It is useful for tracking billable hours and can report the hours logged by task and day.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Organize tasks into subtasks</li>
+      <li>Edit task history and comments</li>
+      <li>The time history can be exported to a comma-delimited text file for import into other billing and/or project management tools.</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktimetracker</url>
+  <url type="help">http://docs.kde.org/stable/en/kdepim/ktimetracker/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="674" width="1042">http://kde.org/images/screenshots/ktimetracker.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ktimetracker</binary>
+  </provides>
+</component>

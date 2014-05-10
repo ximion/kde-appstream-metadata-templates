@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kdevelop.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>KDevelop</name>
+  <summary>Integrated Development Environment</summary>
+  <description>
+    <p>KDevelop is a powerful integrated development environment (IDE) for KDE providing excellent support for C++, CMake, Subversion and PHP, based on the KDevPlatform framework.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Display problems in source-code</li>
+      <li>Show information about declarations (classes, functions, templates...) in libraries and your application</li>
+      <li>Intelligent auto-completion showing those methods which could be used in the current context including their signature and documentation</li>
+      <li>Show usages of declarations/rename them</li>
+      <li>Context-specific highlighting</li>
+      <li>Debugging using gdb</li>
+      <li>SVN integration</li>
+      <li>Manage CMake-targets and build them</li>
+      <li>CMake-auto-completion showing defined macros and variables</li>
+      <li>Kate-integration</li>
+      <li>Custom makefiles</li>
+      <li>C++-specific:</li>
+      <li>[u&quot;Consideration of Qt's signals and slots by the auto-completion&quot;, u'Qt-Documentation', u'Unroll constants and typedefs (partial)', u'Create class dialog, which allows to select those methods which should be overloaded']</li>
+      <li>PHP-specific:</li>
+      <li>[u'Guess the type of variables', u'Show documentation from php.net']</li>
+      <li>Experimental:</li>
+      <li>[u'QtDesigner support', u'Valgrind', u'xdebug (PHP-debugger)', u'Unit testing', u'Java, C#, CSS and XML support', u'Mercurial support']</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.kdevelop.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdevelop</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-kdevelop/kdevelop/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="761" width="1414">http://kde.org/images/screenshots/kdevelop.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kdevelop</binary>
+  </provides>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>klinkstatus.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>KLinkStatus</name>
+  <summary>Link Checker</summary>
+  <description>
+    <p>KLinkStatus is a link checker. It allows you to search internal and external links in either your entire web site, a single page or a specified depth. For performance, links can be checked simultaneously.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Support several protocols (allowing fast checking of local documents): http, ftp, ssh (fish or sftp) and file.</li>
+      <li>Proxy support</li>
+      <li>Allows authentication when checking restricted documents</li>
+      <li>Limit the search depth</li>
+      <li>Pause/Resume of checking session</li>
+      <li>History of checked URLs</li>
+    </ul>
+  </description>
+  <url type="homepage">http://userbase.kde.org/KLinkStatus</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=klinkstatus</url>
+  <url type="help">http://docs.kde.org/stable/en/kdewebdev/klinkstatus/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="645" width="930">http://kde.org/images/screenshots/klinkstatus.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>klinkstatus</binary>
+  </provides>
+</component>

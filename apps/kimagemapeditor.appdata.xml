@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kimagemapeditor.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KImageMapEditor</name>
+  <summary>HTML Image Map Editor</summary>
+  <description>
+    <p>KImageMapEditor is an HTML imagemap editor for KDE. It allows you to create and modify HTML imagemaps.</p>
+  </description>
+  <url type="homepage">http://userbase.kde.org/KImageMapEditor</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kimagemapeditor</url>
+  <url type="help">http://docs.kde.org/stable/en/kdewebdev/kimagemapeditor/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="654" width="879">http://kde.org/images/screenshots/kimagemapeditor.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kimagemapeditor</binary>
+  </provides>
+</component>

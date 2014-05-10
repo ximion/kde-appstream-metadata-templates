@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmplot.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KmPlot</name>
+  <summary>Mathematical Function Plotter</summary>
+  <description>
+    <p>KmPlot is a program to draw graphs, their integrals or derivatives. It supports different systems of coordinates like the Cartesian or the polar coordinate system. The graphs can be colorized and the view is scalable, so that you are able to zoom to the level you need.</p>
+    <p>Features:</p>
+    <ul>
+      <li>powerful mathematical parser</li>
+      <li>precise metric printing</li>
+      <li>different plot types</li>
+      <li>[u'cartesian', u'parametric', u'polar', u'implicit', u'differential']</li>
+      <li>highly configurable visual settings (plot line, axes, grid)</li>
+      <li>export to bitmap format (BMP and PNG) and scalable vector graphics (SVG)</li>
+      <li>save/load complete session in readable xml format</li>
+      <li>trace mode: cross hair following plot, coordinates shown in the status bar</li>
+      <li>support zooming</li>
+      <li>ability to draw the 1st and 2nd derivative and the integral of a plot function</li>
+      <li>support user defined constants and parameter values</li>
+      <li>various tools for plot functions</li>
+      <li>[u'find minimum/maximum point', u'get y-value and draw the area between the function and the y-axis']</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmplot</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/kmplot/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="744" width="1089">http://kde.org/images/screenshots/kmplot.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmplot</binary>
+  </provides>
+</component>

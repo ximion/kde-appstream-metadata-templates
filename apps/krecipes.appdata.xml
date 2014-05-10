@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>krecipes.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KRecipes</name>
+  <summary>Cooking Book</summary>
+  <description>
+    <p>KRecipes is a highly configurable recipe manager, designed to make organizing your personal recipes collection fast and easy. Features include: shopping lists, nutrient analysis, advanced search, recipe ratings, import/export various formats, and more.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Recipes can be searched by name or by ingredients included or to be omitted</li>
+      <li>A shopping list can be generated from selected recipes</li>
+      <li>Nutrient values can be used to help you plan any diet</li>
+      <li>Files can be imported from an existing Krecipes database</li>
+      <li>Advanced Database Management</li>
+    </ul>
+  </description>
+  <url type="homepage">http://krecipes.sourceforge.net/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=krecipes</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-utils/krecipes/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="671" width="969">http://kde.org/images/screenshots/krecipes.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>krecipes</binary>
+  </provides>
+</component>

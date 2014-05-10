@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kfloppy.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KFloppy</name>
+  <summary>Floppy Formatter</summary>
+  <description>
+    <p>KFloppy is a utility that provides a straightforward graphical means to format 3.5&quot; and 5.25&quot; floppy disks.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Quick or full format</li>
+      <li>Bad sector checking (via Verify Integrity)</li>
+      <li>Can label disk</li>
+      <li>Supports command line options</li>
+      <li>Supports DOS, ext2. UFS and Minix file systems</li>
+    </ul>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/kfloppy/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kfloppy</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/kfloppy/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="576" width="415">http://kde.org/images/screenshots/kfloppy.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kfloppy</binary>
+  </provides>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmousetool.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMouseTool</name>
+  <summary>Automatic Mouse Click</summary>
+  <description>
+    <p>KMouseTool is a Linux-based KDE program. It clicks the mouse for you, so you don't have to. KMouseTool works with any mouse or pointing device.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Clicking</li>
+      <li>Dragging</li>
+    </ul>
+  </description>
+  <url type="homepage">http://accessibility.kde.org/aids/kmousetool.php</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmousetool</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeaccessibility/kmousetool/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="485" width="560">http://kde.org/images/screenshots/kmousetool.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmousetool</binary>
+  </provides>
+</component>

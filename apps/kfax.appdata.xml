@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kfax.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KFax</name>
+  <summary>Fax Viewer</summary>
+  <description>
+    <p>KFax is a fax file viewer, supporting all page sizes.</p>
+    <p>Features:</p>
+    <ul>
+      <li>TIFF, G3 and G4 formats supported</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kfax</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="695" width="944">http://kde.org/images/screenshots/kfax.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kfax</binary>
+  </provides>
+</component>

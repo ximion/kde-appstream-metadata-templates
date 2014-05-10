@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>krdc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KRDC</name>
+  <summary>Remote Desktop Client</summary>
+  <description>
+    <p>KRDC is a client application that allows you to view or even control the desktop session on another machine that is running a compatible server. VNC and RDP is supported.</p>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=krdc</url>
+  <url type="help">http://docs.kde.org/stable/en/kdenetwork/krdc/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="648" width="1000">http://kde.org/images/screenshots/krdc.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>krdc</binary>
+  </provides>
+</component>

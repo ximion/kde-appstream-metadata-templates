@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kppp.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KPPP</name>
+  <summary>Internet Dial-Up Tool</summary>
+  <description>
+    <p>KPPP is used to setup PPP (Point-to-Point Protocol) connections. This is most useful for connecting with a cell phone &quot;modem&quot; card these days. It is also use to configure real modem connections.</p>
+  </description>
+  <url type="homepage">http://developer.kde.org/~kppp/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kppp</url>
+  <url type="help">http://docs.kde.org/stable/en/kdenetwork/kppp/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="747" width="866">http://kde.org/images/screenshots/kppp.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kppp</binary>
+  </provides>
+</component>

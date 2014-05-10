@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmldonkey.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>KMLDonkey</name>
+  <summary>MLDonkey Client</summary>
+  <description>
+    <p>KMLDonkey is an advanced GUI frontend for the MLDonkey peer-to-peer core.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Supports most of the P2P protocols handled by the mldonkey backend (eDonkey/eMule, BitTorrent, Gnutella, Gnutella2, DirectConnect, FastTrack, SoulSeek, Audiogalaxy, OpenFT, FileTP)</li>
+      <li>Supports a lot of configuration options in the mldonkey backend</li>
+      <li>Can handle multiple threads simultaneously</li>
+      <li>Can be used with traffic-shaping tools</li>
+      <li>Can handle several security options</li>
+    </ul>
+  </description>
+  <url type="homepage">http://extragear.kde.org/apps/kmldonkey/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmldonkey</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="582" width="797">http://kde.org/images/screenshots/kmldonkey.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmldonkey</binary>
+  </provides>
+</component>

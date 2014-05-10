@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kwordquiz.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KWordQuiz</name>
+  <summary>Flash Card Trainer</summary>
+  <description>
+    <p>KWordQuiz is a tool that gives you a powerful way to master new vocabularies. It may be a language or any other kind of terminology.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Easy to use</li>
+      <li>Five different practice modes</li>
+      <li>Flashcards and Quiz types</li>
+      <li>Several Vocabulary documents formats supported</li>
+    </ul>
+  </description>
+  <url type="homepage">/kwordquiz/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kwordquiz</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/kwordquiz/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="566" width="912">http://kde.org/images/screenshots/kwordquiz.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kwordquiz</binary>
+  </provides>
+</component>

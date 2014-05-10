@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmid.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMid</name>
+  <summary>A KDE4 MIDI/Karaoke Player</summary>
+  <description>
+    <p>KMid is a feature-rich MIDI and Karaoke player.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Plays MIDI and Karaoke files.</li>
+      <li>Playback to external hardware MIDI devices.</li>
+      <li>Allows to use software synths as well.</li>
+      <li>Tempo and volume controls.</li>
+      <li>Pitch (transpose) control.</li>
+      <li>Rhythm view (visual metronome).</li>
+      <li>Configurable character encoding, font and color for lyrics.</li>
+      <li>Playlists (song collections).</li>
+      <li>MIDI Mapper.</li>
+      <li>Channels window, with solo/muting controls and instrument selectors.</li>
+      <li>Piano player window, using VMPK artwork and technology.</li>
+    </ul>
+  </description>
+  <url type="homepage">http://kmid2.sourceforge.net/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmid</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-multimedia/kmid/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="745" width="890">http://kde.org/images/screenshots/kmid.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmid</binary>
+  </provides>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>lokalize.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Lokalize</name>
+  <summary>Computer-Aided Translation System</summary>
+  <description>
+    <p>Lokalize is a computer-aided translation system that focuses on productivity and quality assurance. It is targeted for software translation and also integrates external conversion tools for freelance office document translation.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Project management overview</li>
+      <li>Translation merging (synchronization)</li>
+      <li>Translation memory</li>
+      <li>Glossary</li>
+      <li>Spell-checking</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=lokalize</url>
+  <url type="help">http://docs.kde.org/stable/en/kdesdk/lokalize/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="715" width="1106">http://kde.org/images/screenshots/lokalize.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>lokalize</binary>
+  </provides>
+</component>

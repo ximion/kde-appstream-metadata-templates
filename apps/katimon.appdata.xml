@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>katimon.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>katimon</name>
+  <summary>ATI Graphics Card monitor and overclocking GUI.</summary>
+  <description>
+    <p>katimon is an unofficial ATI graphics card temperature monitor, fan regulator, and overclocking utility which uses the aticonfig utility from the proprietary fglrx driver.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Monitor temperature, fan speed, GPU speed and memory speed</li>
+      <li>Automatically control fan speed by monitoring the temperature</li>
+      <li>Overclocking utility for cards that support it</li>
+    </ul>
+  </description>
+  <url type="homepage">http://freshmeat.net/projects/katimon</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=katimon</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-utils/katimon/index.html</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>katimon</binary>
+  </provides>
+</component>

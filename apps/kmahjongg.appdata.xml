@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kmahjongg.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMahjongg</name>
+  <summary>Mahjongg Solitaire</summary>
+  <description>
+    <p>In KMahjongg the tiles are scrambled and staked on top of each other to resemble a certain shape. The player is then expected to remove all the tiles off the game board by locating each tile's matching pair.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=kmahjongg</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmahjongg</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/kmahjongg/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="769" width="952">http://kde.org/images/screenshots/kmahjongg.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmahjongg</binary>
+  </provides>
+</component>

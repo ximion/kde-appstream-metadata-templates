@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ktouch.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KTouch</name>
+  <summary>Touch Typing Tutor</summary>
+  <description>
+    <p>KTouch is a program for learning to touch type. It provides you with text to train on and adjusts to different levels depending on how good you are. It also displays which key to press next and the correct finger to use.</p>
+    <p>You learn typing with all fingers, step by step, without having to look down at the keyboard all the time to find your keys (which slows you down a lot). It is convenient for all ages and the perfect typing tutor for schools, universities and individuals.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Support for many different training lectures</li>
+      <li>Support for many languages including language specific text fonts</li>
+      <li>Comfortable lecture editor</li>
+      <li>Support for different keyboard layouts, with the ability to use user-defined layouts</li>
+      <li>During training sessions comprehensive statistical informations are shown to help you analyse your progress</li>
+    </ul>
+  </description>
+  <url type="homepage">http://ktouch.sourceforge.net/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktouch</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/ktouch/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="564" width="951">http://kde.org/images/screenshots/ktouch.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ktouch</binary>
+  </provides>
+</component>

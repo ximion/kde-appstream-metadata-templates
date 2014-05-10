@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kwalletmanager.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KWalletManager</name>
+  <summary>Wallet Management Tool</summary>
+  <description>
+    <p>KWalletManager is a tool to manage the passwords on your system. By using the KDE wallet subsystem it not only allows you to keep your own secrets but also to access and manage the passwords of every application that integrates with the wallet.</p>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/kwalletmanager/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kwalletmanager</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/kwallet/kwalletmanager.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="485" width="747">http://kde.org/images/screenshots/kwalletmanager.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kwalletmanager</binary>
+  </provides>
+</component>

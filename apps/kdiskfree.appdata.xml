@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kdiskfree.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KDiskFree</name>
+  <summary>View Disk Usage</summary>
+  <description>
+    <p>KDiskFree displays the available file devices (hard drive partitions, floppy and CD drives, etc.) along with information on their capacity, free space, type and mount point. It also allows you to mount and unmount drives and view them in a file manager.</p>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/kdf/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdiskfree</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/kdf/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="400" width="801">http://kde.org/images/screenshots/kdiskfree.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kdiskfree</binary>
+  </provides>
+</component>

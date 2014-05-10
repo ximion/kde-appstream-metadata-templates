@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>skrooge.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V3</project_license>
+  <name>Skrooge</name>
+  <summary>Manage your money</summary>
+  <description>
+    <p>Skrooge is a personal finances manager, aiming at being simple and intuitive, yet powerful.</p>
+    <p>Features:</p>
+    <ul>
+      <li>QIF, CSV, import/export</li>
+      <li>OFX, QFX import</li>
+      <li>Advanced Graphical Reports</li>
+      <li>Several tabs to help you organize your work</li>
+      <li>Infinite undo/redo (even after the file was closed !)</li>
+      <li>Instant filtering on operations and reports</li>
+      <li>Infinite categories levels</li>
+      <li>Mass update of operations</li>
+      <li>Scheduled operations</li>
+      <li>Track refund of your expenses</li>
+      <li>Automatically process operations based on search conditions</li>
+    </ul>
+  </description>
+  <url type="homepage">http://skrooge.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=skrooge</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-office/skrooge/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="683" width="984">http://kde.org/images/screenshots/skrooge.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>skrooge</binary>
+  </provides>
+</component>

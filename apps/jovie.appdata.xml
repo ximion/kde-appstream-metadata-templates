@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>jovie.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Jovie</name>
+  <summary>KDE Text To Speech Daemon</summary>
+  <description>
+    <p>Jovie KDE Text-to-Speech is a subsystem within the KDE desktop for conversion of text to audible speech. Jovie is currently under development and aims to become the standard subsystem for all KDE applications to provide speech output.</p>
+    <p>Features:</p>
+    <ul>
+      <li>User Features:</li>
+      <li>[u'Speak any text from the KDE clipboard', u'Speak any plain text file', u'Speak all or any portion of a text file from Kate, including instances where Kate isembedded in another KDE application', u'Speak all or any portion of an HTML page from Konqueror', u'Use as the speech backend for KMouth and KSayIt', u'Speak KDE notifications (KNotify)', u'User-configurable filters for substituting misspoken words, choosing speech synthesizers, and transforming XHMTL/XML documents']</li>
+      <li>Programmer Features:</li>
+      <li>[u'Priority system for screen reader outputs, warnings and messages, while still playing regular texts', u'Permit generation of speech from the command line (or via shell scripts) using the qdbus utility', u'Provide a lightweight and easily usableinterface for applications to generate speech output', u'Applications need not be concerned about contention over the speech device', u'FUTURE: Provide support for speech markuplanguages, such as VoiceXML, Sable, Java Speech Markup Language (JSML), and Speech Markup Meta-language (SMML)', u'FUTURE: Provide limited support for embedded speech markers', u'Asynchronous to prevent system blocking']</li>
+    </ul>
+  </description>
+  <url type="homepage">http://accessibility.kde.org/developer/kttsd/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=jovie</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeaccessibility/jovie/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="510" width="671">http://kde.org/images/screenshots/jovie.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>jovie</binary>
+  </provides>
+</component>

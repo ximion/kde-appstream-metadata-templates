@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>k3b.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>K3b</name>
+  <summary>Disk Burning</summary>
+  <description>
+    <p>K3b is a full-featured, easy to use CD and DVD burner, copier, ripper and more.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Burn and Copy CDs and DVDs</li>
+      <li>Rip and Create audio CDs</li>
+      <li>Rip DVDs</li>
+      <li>Create mixed CDs (audio + data)</li>
+      <li>Create video CDs</li>
+    </ul>
+  </description>
+  <url type="homepage">http://k3b.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=k3b</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-multimedia/k3b/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="573" width="1025">http://kde.org/images/screenshots/k3b.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>k3b</binary>
+  </provides>
+</component>

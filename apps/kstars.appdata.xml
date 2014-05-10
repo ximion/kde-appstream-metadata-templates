@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kstars.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KStars</name>
+  <summary>Desktop Planetarium</summary>
+  <description>
+    <p>KStars is a Desktop Planetarium for KDE. It provides an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes up to 100 million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and thousands of comets and asteroids.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Catalogs:</li>
+      <li>[u'Default catalog consisting of stars to magnitude 8', u'Extra catalogs consisting of 100 million stars to magnitude 16', u'Downloadable catalogsincluding Messier Images, Abell Planetary Nebulae', u'Corrections for precession, nutation and atmospheric refraction', u'Tools for retrieval of data from Online Databases', u'Scriptable actions using D-Bus', u'Integration with INDI provides support for a wide range of instruments']</li>
+      <li>Features for Educators and Students:</li>
+      <li>[u'Adjustable simulation speed in order to view phenomena that happen over long timescales', u'KStars Astrocalculator to access some of the internal calculations of KStars,and also to predict conjunctions etc.', u'Astroinfo project to help facilitate learning with the aid of KStars', u'Internet links for further information / pictures of objectsv']</li>
+      <li>Features for Amateur Astronomers:</li>
+      <li>[u'Observing List tool to plan observations', u'FOV Editor helps calculate field of view of equipment and display them', u'ObtainAAVSO light curves for variable stars', u&quot;What's up tonight tool&quot;, u'Altitude vs Time tool', u'Sky Calendar tool']</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kstars</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/kstars/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="813" width="853">http://kde.org/images/screenshots/kstars.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kstars</binary>
+  </provides>
+</component>

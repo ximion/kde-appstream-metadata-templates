@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kcoloredit.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>KColorEdit</name>
+  <summary>Color Palette Editor</summary>
+  <description>
+    <p>KColorEdit is a very useful tool that makes more easy and fun to edit and create color palettes.</p>
+    <p>Features:</p>
+    <ul>
+      <li>KDE and GTK color selectors</li>
+      <li>Mix of colors</li>
+      <li>Gradient selector of color</li>
+      <li>Detail view and brief view of the color palette</li>
+      <li>Support comments, description and name of the palette</li>
+      <li>Support KDE and Gimp palette files</li>
+      <li>Generate color scheme (complement color, triadic colors)</li>
+      <li>Generate a random color</li>
+      <li>Highlight regions of gradient selector</li>
+      <li>Add to the palette any color of any scheme (triadic, tetradic)</li>
+    </ul>
+  </description>
+  <url type="homepage">http://extragear.kde.org/apps/kcoloredit/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kcoloredit</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-graphics/kcoloredit/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="621" width="928">http://kde.org/images/screenshots/kcoloredit.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kcoloredit</binary>
+  </provides>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kwlan.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>Kwlan</name>
+  <summary> Wireless Lan Manager</summary>
+  <description>
+    <p>Kwlan is an alternative network manager supporting profiles for dial-up, wired and wireless networks.(Deprecated by NetworkManager)</p>
+    <p>Features:</p>
+    <ul>
+      <li>Supports multiple profiles</li>
+      <li>Connects to open and encrypted networks</li>
+      <li>Uses all wpa_supplicant types - wep, wpa, wpa2 etc</li>
+      <li>Can show statistics per interface in systray icon</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kwlan</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kwlan</binary>
+  </provides>
+</component>

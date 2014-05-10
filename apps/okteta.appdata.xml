@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>okteta.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Okteta</name>
+  <summary>Hex Editor</summary>
+  <description>
+    <p>Okteta is a simple editor for the raw data of files.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Values and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character</li>
+      <li>Editing and navigating similar to a text editor</li>
+      <li>Customizable data views</li>
+      <li>Data view profiles</li>
+      <li>Tools dockable on all sides or floating</li>
+      <li>Numerical encodings: Hexadecimal, Decimal, Octal, Binary</li>
+      <li>
+        Character encodings: All 8-bit encodings as 
+        <a href="http://qt-project.org/doc/qt-4.8/QTextCodec.html">supplied</a>
+         by Qt, EBCDIC
+      </li>
+      <li>Fast data rendering on screen</li>
+      <li>Multiple open files</li>
+      <li>Support for remote files, by http, ftp, fish &amp; other protocols supported by KDE Platform</li>
+      <li>Export of data to text, both file and clipboard.</li>
+      <li>
+        Checksum/Hashsum calculator: Modular sum (8/16/32/64 bit), Adler-32, CRC-32 and Hashsums by the 
+        <a href="http://delta.affinix.com/qca/">QCA2 library</a>
+        , can be SHA-0/1/224/256/384/512, MD2/4/5, RIPEMD-160, Whirlpool
+      </li>
+      <li>Structures tool for analyzing and editing based on user-creatable structure definitions</li>
+      <li>Statistic tool</li>
+      <li>String extraction tool</li>
+      <li>8-bit charset conversion tool</li>
+      <li>Decoding table listing common simple data types.</li>
+      <li>Bookmarks</li>
+      <li>Printing</li>
+      <li>Table with complete list of all byte values</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=okteta</url>
+  <url type="help">http://docs.kde.org/stable/en/kdesdk/okteta/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="668" width="990">http://kde.org/images/screenshots/okteta.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>okteta</binary>
+  </provides>
+</component>

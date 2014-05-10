@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ksudoku.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>KSudoku</name>
+  <summary>Sudoku Game</summary>
+  <description>
+    <p>KSudoku is a logic-based symbol placement puzzle. The player has to fill a grid so that each column, row as well as each square block on the game field contains only one instance of each symbol.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=ksudoku</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksudoku</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/ksudoku/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="500" width="473">http://kde.org/images/screenshots/ksudoku.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ksudoku</binary>
+  </provides>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ksnapshot.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KSnapshot</name>
+  <summary>Screen Capture Program</summary>
+  <description>
+    <p>KSnapshot is a KDE snapshot tool with many features.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Save in multiple formats</li>
+      <li>Take new shapshot</li>
+      <li>Open with... possibility to open snapshot in external editor.</li>
+      <li>Copy to clipboard</li>
+      <li>Several capture modes, including selected region or single window</li>
+      <li>Snapshot delay</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksnapshot</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegraphics/ksnapshot/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="409" width="465">http://kde.org/images/screenshots/ksnapshot.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ksnapshot</binary>
+  </provides>
+</component>

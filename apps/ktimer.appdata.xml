@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ktimer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KTimer</name>
+  <summary>Countdown Launcher</summary>
+  <description>
+    <p>KTimer is a little tool to execute programs after some time. It allows you to enter several tasks and to set a timer for each of them. The timers for each task can be started, stopped, changed, or looped.</p>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/ktimer/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktimer</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/ktimer/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="444" width="661">http://kde.org/images/screenshots/ktimer.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ktimer</binary>
+  </provides>
+</component>

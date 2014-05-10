@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>keurocalc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KEuroCalc</name>
+  <summary>A currency converter and calculator</summary>
+  <description>
+    <p>KEuroCalc is a universal currency converter and calculator. It can convert from and to many currencies, either with a fixed conversion rate or a variable conversion rate. It directly downloads the latest variable rates through the Internet.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Reference currency can be Euro or US$</li>
+      <li>Official rates downloaded for accuracy</li>
+      <li>Can work with fixes rates, if no Internet access available</li>
+    </ul>
+  </description>
+  <url type="homepage">http://opensource.bureau-cornavin.com/keurocalc/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=keurocalc</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-utils/keurocalc/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="443" width="712">http://kde.org/images/screenshots/keurocalc.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>keurocalc</binary>
+  </provides>
+</component>

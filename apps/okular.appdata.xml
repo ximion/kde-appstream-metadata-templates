@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>okular.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Okular</name>
+  <summary>Document Viewer</summary>
+  <description>
+    <p>Okular is a universal document viewer.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Several Supported Formats: PDF, PS, Tiff, CHM, DjVu, Images, DVI, XPS, ODT, Fiction Book, Comic Book, Plucker, EPub, Fax</li>
+      <li>Thumbnails sidebar</li>
+      <li>Annotations support</li>
+    </ul>
+  </description>
+  <url type="homepage">http://okular.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=okular</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegraphics/okular/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="571" width="879">http://kde.org/images/screenshots/okular.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>okular</binary>
+  </provides>
+</component>

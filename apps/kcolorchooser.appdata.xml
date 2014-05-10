@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kcolorchooser.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>BSD</project_license>
+  <name>KColorChooser</name>
+  <summary>Color Chooser</summary>
+  <description>
+    <p>KColorChooser is a simple application to select the color from the screen or from a pallete.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Select colors from any location on the screen.</li>
+      <li>Select colors from a range of standard palletes available.</li>
+      <li>Color values shown in Hue-Saturation-Value (HSV), Red-Green-Blue (RGB) and HTML formats.</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kcolorchooser</url>
+  <url type="help">http://docs.kde.org/development/en/kde-runtime/fundamentals/colors.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="500" width="632">http://kde.org/images/screenshots/kcolorchooser.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kcolorchooser</binary>
+  </provides>
+</component>

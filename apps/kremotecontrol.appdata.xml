@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kremotecontrol.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>KRemoteControl</name>
+  <summary>Remote Controls</summary>
+  <description>
+    <p>KRemoteControl is a KDE frontend for the Linux Infrared Remote Control system (LIRC). It consist of two parts: a systemtray applet and a configuration module.</p>
+    <p>Features:</p>
+    <ul>
+      <li>A systemtray applet named IRKick which acts as a proxy between the LIRC system and D-Bus. It maps between remote actions and configured D-Bus requests to control and to launch programs.</li>
+      <li>Overview of the installed remote controls, with mapping to predefined configurations (if given), configured modes and actions for the remote controls and available profile bindings for program controlling.</li>
+      <li>Support to configure application bindings to remote control buttons manually or by given profiles and application bindings grouping for each remote into modes.</li>
+    </ul>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/kremotecontrol/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kremotecontrol</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/kcontrol/kremotecontrol/index.html</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kremotecontrol</binary>
+  </provides>
+</component>

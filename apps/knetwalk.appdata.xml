@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>knetwalk.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KNetWalk</name>
+  <summary>Network Construction Game</summary>
+  <description>
+    <p>KNetWalk is a small game where you have to build up a computer network by rotating the wires to connect the terminals to the server. When the network is build, a highscore-list comes up where competitions can be fought out.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knetwalk</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/knetwalk/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="719" width="585">http://kde.org/images/screenshots/knetwalk.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>knetwalk</binary>
+  </provides>
+</component>

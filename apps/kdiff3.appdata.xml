@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kdiff3.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>KDiff3</name>
+  <summary>Diff/Patch Frontend</summary>
+  <description>
+    <p>KDiff3 is a tool for Comparison and Merge of Files and Directories.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Compares or merges two or three text input files or directories</li>
+      <li>Shows the differences line by line and character by character (!)</li>
+      <li>Provides an automatic merge-facility and</li>
+      <li>Integrated editor for comfortable solving of merge-conflicts</li>
+      <li>Supports Unicode, UTF-8 and other codecs, autodetection via byte-order-mark 'BOM'</li>
+      <li>Supports KIO on KDE (allows accessing ftp, sftp, fish, smb etc.)</li>
+      <li>Printing of differences</li>
+      <li>Manual alignment of lines</li>
+      <li>Automatic merging of version control history ($Log$)</li>
+      <li>Intuitive graphical user interface</li>
+      <li>Windows-Explorer integration Diff-Ext-for-KDiff3</li>
+      <li>KDE-Konqueror service menu plugin</li>
+      <li>Simplified integration with IBM-Rational-Clearcase for Windows</li>
+    </ul>
+  </description>
+  <url type="homepage">http://kdiff3.sourceforge.net/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdiff3</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-utils/kdiff3/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="681" width="889">http://kde.org/images/screenshots/kdiff3.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kdiff3</binary>
+  </provides>
+</component>

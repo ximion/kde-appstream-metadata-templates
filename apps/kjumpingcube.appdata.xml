@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kjumpingcube.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KJumpingCube</name>
+  <summary>Territory Capture Game</summary>
+  <description>
+    <p>KJumpingCube is a simple dice driven tactical game. The playing area consists of squares containing points. Players move by clicking on either a vacant square, or on own square.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=kjumpingcube</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kjumpingcube</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/kjumpingcube/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="523" width="455">http://kde.org/images/screenshots/kjumpingcube.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kjumpingcube</binary>
+  </provides>
+</component>

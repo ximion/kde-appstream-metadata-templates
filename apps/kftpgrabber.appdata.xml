@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kftpgrabber.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KFTPgrabber</name>
+  <summary>FTP Client</summary>
+  <description>
+    <p>KFTPGrabber is a powerful FTP client.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Multiple simultaneous FTP sessions in separate tabs</li>
+      <li>A tree-oriented transfer queue</li>
+      <li>Site bookmarks with many options configurable per-site</li>
+      <li>Bookmark import plugins from other FTP clients</li>
+      <li>Ability to limit upload and download speed</li>
+      <li>Direct viewing/editing of remote files</li>
+      <li>One-time password (OTP) support using S/KEY, MD5, RMD160 or SHA1</li>
+      <li>Traffic graph available</li>
+    </ul>
+  </description>
+  <url type="homepage">http://www.kftp.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kftpgrabber</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="650" width="983">http://kde.org/images/screenshots/kftpgrabber.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kftpgrabber</binary>
+  </provides>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>knemo.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>KNemo</name>
+  <summary>Network Monitor</summary>
+  <description>
+    <p>KNemo is a tool that monitors the network traffic</p>
+    <p>Features:</p>
+    <ul>
+      <li>A system tray widget for every network interface</li>
+      <li>Configurable system tray widget's tooltip (select how much information to show)</li>
+      <li>Support for network statistics</li>
+      <li>Live network traffic plot</li>
+      <li>Different icon themes</li>
+    </ul>
+  </description>
+  <url type="homepage">http://extragear.kde.org/apps/knemo/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knemo</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="678" width="836">http://kde.org/images/screenshots/knemo.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>knemo</binary>
+  </provides>
+</component>

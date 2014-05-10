@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kanagram.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kanagram</name>
+  <summary>Letter Order Game</summary>
+  <description>
+    <p>Kanagram is a game based on anagrams of words: the puzzle is solved when the letters of the scrambled word are put back in the correct order. There is no limit on either time taken, or the amount of attempts to solve the word.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Several word lists included</li>
+      <li>Hints and cheat help system</li>
+      <li>Word list editor</li>
+      <li>
+        Wordlist distribution via 
+        <i>KNewStuff</i>
+      </li>
+      <li>Scalable user interfaxe appropriate for children</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kanagram</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/kanagram/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="568" width="768">http://kde.org/images/screenshots/kanagram.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kanagram</binary>
+  </provides>
+</component>

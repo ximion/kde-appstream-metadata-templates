@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kolf.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kolf</name>
+  <summary>Miniature Golf</summary>
+  <description>
+    <p>Kolf is a miniature golf game. The game is played from an overhead view, with a short bar representing the golf club. Kolf features many different types of objects, such water hazards, slopes, sand traps, and black holes (warps), among others.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Single and Multi-player (up to ten players) modes</li>
+      <li>High scores table</li>
+      <li>Dynamic courses</li>
+      <li>Third-party courses</li>
+      <li>Course editor</li>
+    </ul>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=kolf</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kolf</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/kolf/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="537" width="428">http://kde.org/images/screenshots/kolf.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kolf</binary>
+  </provides>
+</component>

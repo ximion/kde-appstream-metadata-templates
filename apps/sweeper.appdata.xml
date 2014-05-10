@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>sweeper.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL</project_license>
+  <name>Sweeper</name>
+  <summary>System Cleaner</summary>
+  <description>
+    <p>Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files.</p>
+    <p>Features:</p>
+    <ul>
+      <li>It can remove web-related traces: cookies, history, cache</li>
+      <li>It can remove the image thumbnails cache</li>
+      <li>It can also clean the applications and documentes history</li>
+    </ul>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/sweeper/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=sweeper</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeutils/sweeper/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="549" width="813">http://kde.org/images/screenshots/sweeper.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>sweeper</binary>
+  </provides>
+</component>

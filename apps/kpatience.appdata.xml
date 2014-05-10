@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kpatience.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL_V2</project_license>
+  <name>KPatience</name>
+  <summary>Patience Card Game</summary>
+  <description>
+    <p>KPatience is a relaxing card sorting game. To win the game a player has to arrange a single deck of cards in certain order amongst each other.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=kpat</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kpatience</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/kpat/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="697" width="989">http://kde.org/images/screenshots/kpatience.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kpatience</binary>
+  </provides>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>ksquares.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KSquares</name>
+  <summary>Connect the dots to create squares</summary>
+  <description>
+    <p>KSquares is a game modeled after the well known pen and paper based game of Dots and Boxes. Each player takes it in turns to draw a line between two adjacent dots on the board. The objective is to complete more squares than your opponents.</p>
+  </description>
+  <url type="homepage">http://games.kde.org/game.php?game=ksquares</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksquares</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/ksquares/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="388" width="356">http://kde.org/images/screenshots/ksquares.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ksquares</binary>
+  </provides>
+</component>

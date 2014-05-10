@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>superkaramba.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>SuperKaramba</name>
+  <summary>Desktop Widgets</summary>
+  <description>
+    <p>SuperKaramba is a tool that allows you to easily create interactive widgets on your KDE desktop. Such modules are interactive programs written in Python, Ruby or KDE JavaScript that are usually embedded directly into the background and do not disturb the normal view of the desktop. (Superkaramba is deprecated in favor of Plasma widgets.)</p>
+  </description>
+  <url type="homepage">http://utils.kde.org/projects/superkaramba/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=superkaramba</url>
+  <screenshots>
+    <screenshot type="default">
+      <image height="748" width="821">http://kde.org/images/screenshots/superkaramba.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>superkaramba</binary>
+  </provides>
+</component>
