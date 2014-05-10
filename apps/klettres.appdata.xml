@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>klettres.desktop</id>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KLettres</name>
+  <summary>Learn The Alphabet</summary>
+  <description>
+    <p>KLettres is an application specially designed to help the user to learn alphabet in a new language and then to learn to read simple syllables. The user can be a young child aged from two and a half or an adult that wants to learn the basics of a foreign language.</p>
+    <p>There are twenty five languages available at the moment: Arabian, Brazilian Portuguese, Czech, Danish, Dutch, British English, US English, Phonics English, French, German, Hebrew, Hugarian, Italian, Kannada, Low Saxon, Malayalam, Norwegian Bokmål, Punjabi, Luganda, Romanized Hindi, Russian, Spanish, Slovak, Telugu and Ukrainian.</p>
+    <p>Features:</p>
+    <ul>
+      <li>4 difficulties and 2 ages modes</li>
+      <li>Special GUI with delayed keyboard action and scalable themes reasonable for younger users</li>
+      <li>25 languages available</li>
+      <li>
+        Download and upload of additional language data using 
+        <i>KNewStuff</i>
+      </li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=klettres</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/klettres/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/klettres.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>klettres</binary>
+  </provides>
+</component>

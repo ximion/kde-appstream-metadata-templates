@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>marble.desktop</id>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <project_license>LGPL</project_license>
+  <name>Marble</name>
+  <summary>Desktop Globe</summary>
+  <description>
+    <p>Marble is a Virtual Globe and World Atlas that you can use to learn more about Earth.</p>
+    <p>Features:</p>
+    <ul>
+      <li>You can pan and zoom around and you can look up places and roads</li>
+      <li>A mouse click on a place label will provide the respective Wikipedia article</li>
+      <li>You can measure distances between locations</li>
+      <li>It offers different thematic maps: A classroom-style topographic map, a satellite view, street map, earth at night and temperature and precipitation maps. All maps include a custom map key, so it can also be used as an educational tool for use in class-rooms</li>
+      <li>For educational purposes you can also change date and time and watch how the starry sky and the twilight zone on the map change</li>
+      <li>Supports multiple projections: Choose between a Flat Map (&quot;Plate carré&quot;), Mercator or the Globe</li>
+      <li>Promotes the usage of free maps</li>
+    </ul>
+  </description>
+  <url type="homepage"/>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=marble</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/marble/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/marble.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>marble</binary>
+  </provides>
+</component>

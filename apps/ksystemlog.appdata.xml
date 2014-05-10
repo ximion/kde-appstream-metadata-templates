@@ -20,7 +20,7 @@
       <li>Able to send a log message manually to the system.</li>
       <li>Save, copy to clipboard and printing are of course available.</li>
       <li>It can parse the following log files of your system :</li>
-      <li>[u'System logs', u'X.org logs', u'Kernel logs', u'Authentication logs', u'Acpid logs', u'Cups logs', u'Postfix logs', u'Apache logs', u'Samba logs', u'Daemons logs', u'Cron logs', u'XSessions logs']</li>
+      <li>['System logs', 'X.org logs', 'Kernel logs', 'Authentication logs', 'Acpid logs', 'Cups logs', 'Postfix logs', 'Apache logs', 'Samba logs', 'Daemons logs', 'Cron logs', 'XSessions logs']</li>
     </ul>
   </description>
   <url type="homepage">http://ksystemlog.forum-software.org/</url>

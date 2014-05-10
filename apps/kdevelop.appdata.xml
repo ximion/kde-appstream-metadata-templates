@@ -20,11 +20,11 @@
       <li>Kate-integration</li>
       <li>Custom makefiles</li>
       <li>C++-specific:</li>
-      <li>[u&quot;Consideration of Qt's signals and slots by the auto-completion&quot;, u'Qt-Documentation', u'Unroll constants and typedefs (partial)', u'Create class dialog, which allows to select those methods which should be overloaded']</li>
+      <li>[&quot;Consideration of Qt's signals and slots by the auto-completion&quot;, 'Qt-Documentation', 'Unroll constants and typedefs (partial)', 'Create class dialog, which allows to select those methods which should be overloaded']</li>
       <li>PHP-specific:</li>
-      <li>[u'Guess the type of variables', u'Show documentation from php.net']</li>
+      <li>['Guess the type of variables', 'Show documentation from php.net']</li>
       <li>Experimental:</li>
-      <li>[u'QtDesigner support', u'Valgrind', u'xdebug (PHP-debugger)', u'Unit testing', u'Java, C#, CSS and XML support', u'Mercurial support']</li>
+      <li>['QtDesigner support', 'Valgrind', 'xdebug (PHP-debugger)', 'Unit testing', 'Java, C#, CSS and XML support', 'Mercurial support']</li>
     </ul>
   </description>
   <url type="homepage">http://www.kdevelop.org</url>

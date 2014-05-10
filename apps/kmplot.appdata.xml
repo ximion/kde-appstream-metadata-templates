@@ -12,7 +12,7 @@
       <li>powerful mathematical parser</li>
       <li>precise metric printing</li>
       <li>different plot types</li>
-      <li>[u'cartesian', u'parametric', u'polar', u'implicit', u'differential']</li>
+      <li>['cartesian', 'parametric', 'polar', 'implicit', 'differential']</li>
       <li>highly configurable visual settings (plot line, axes, grid)</li>
       <li>export to bitmap format (BMP and PNG) and scalable vector graphics (SVG)</li>
       <li>save/load complete session in readable xml format</li>
@@ -21,7 +21,7 @@
       <li>ability to draw the 1st and 2nd derivative and the integral of a plot function</li>
       <li>support user defined constants and parameter values</li>
       <li>various tools for plot functions</li>
-      <li>[u'find minimum/maximum point', u'get y-value and draw the area between the function and the y-axis']</li>
+      <li>['find minimum/maximum point', 'get y-value and draw the area between the function and the y-axis']</li>
     </ul>
   </description>
   <url type="homepage"/>

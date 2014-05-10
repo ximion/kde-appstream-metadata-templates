@@ -10,11 +10,11 @@
     <p>Features:</p>
     <ul>
       <li>Catalogs:</li>
-      <li>[u'Default catalog consisting of stars to magnitude 8', u'Extra catalogs consisting of 100 million stars to magnitude 16', u'Downloadable catalogsincluding Messier Images, Abell Planetary Nebulae', u'Corrections for precession, nutation and atmospheric refraction', u'Tools for retrieval of data from Online Databases', u'Scriptable actions using D-Bus', u'Integration with INDI provides support for a wide range of instruments']</li>
+      <li>['Default catalog consisting of stars to magnitude 8', 'Extra catalogs consisting of 100 million stars to magnitude 16', 'Downloadable catalogsincluding Messier Images, Abell Planetary Nebulae', 'Corrections for precession, nutation and atmospheric refraction', 'Tools for retrieval of data from Online Databases', 'Scriptable actions using D-Bus', 'Integration with INDI provides support for a wide range of instruments']</li>
       <li>Features for Educators and Students:</li>
-      <li>[u'Adjustable simulation speed in order to view phenomena that happen over long timescales', u'KStars Astrocalculator to access some of the internal calculations of KStars,and also to predict conjunctions etc.', u'Astroinfo project to help facilitate learning with the aid of KStars', u'Internet links for further information / pictures of objectsv']</li>
+      <li>['Adjustable simulation speed in order to view phenomena that happen over long timescales', 'KStars Astrocalculator to access some of the internal calculations of KStars,and also to predict conjunctions etc.', 'Astroinfo project to help facilitate learning with the aid of KStars', 'Internet links for further information / pictures of objectsv']</li>
       <li>Features for Amateur Astronomers:</li>
-      <li>[u'Observing List tool to plan observations', u'FOV Editor helps calculate field of view of equipment and display them', u'ObtainAAVSO light curves for variable stars', u&quot;What's up tonight tool&quot;, u'Altitude vs Time tool', u'Sky Calendar tool']</li>
+      <li>['Observing List tool to plan observations', 'FOV Editor helps calculate field of view of equipment and display them', 'ObtainAAVSO light curves for variable stars', &quot;What's up tonight tool&quot;, 'Altitude vs Time tool', 'Sky Calendar tool']</li>
     </ul>
   </description>
   <url type="homepage"/>

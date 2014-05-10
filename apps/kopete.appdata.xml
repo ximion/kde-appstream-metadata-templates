@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>kopete.desktop</id>
+  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kopete</name>
+  <summary>Instant Messenger</summary>
+  <description>
+    <p>Kopete is an instant messenger supporting AIM, ICQ, Windows Live Messenger, Yahoo, Jabber, Gadu-Gadu, Novell GroupWise Messenger, and more. It is designed to be a flexible and extensible multi-protocol system suitable for personal and enterprise use.</p>
+    <p>The goal of Kopete is to provide users with a single easy-to-use way to access all of their instant messaging systems. The interface puts people first, and is integrated with the system address book to let you access your contacts from other KDE applications.</p>
+    <p>Kopete features tools to enhance your instant messeging experience, such as message encryption, archiving, and many other fun and useful effects.</p>
+    <p>Kopete supports all commonly used instant messaging protocols, and the Kopete team provides templates for developers to base new plugins on. The API provides developers with many features to make it easy to support a new protocol. All protocols are plugins and allow for modular installation, configuration, and usage.</p>
+  </description>
+  <url type="homepage">http://kopete.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kopete</url>
+  <url type="help">http://docs.kde.org/stable/en/kdenetwork/kopete/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/kopete.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kopete</binary>
+  </provides>
+</component>
