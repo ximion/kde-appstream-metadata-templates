@@ -1,16 +1,16 @@
-From 488f7ee43cca967caf7f896322ea92b04eb4b65b Mon Sep 17 00:00:00 2001
+From 66cf5af897741d9655c2836ce1e5db2c22c8636d Mon Sep 17 00:00:00 2001
 From: Matthias Klumpp <matthias@tenstral.net>
-Date: Tue, 6 May 2014 22:34:40 +0200
+Date: Sat, 10 May 2014 23:11:21 +0200
 Subject: [PATCH] Add AppStream metadata file for Trojita GUI
 
 ---
  CMakeLists.txt              |  1 +
- src/Gui/trojita.appdata.xml | 48 +++++++++++++++++++++++++++++++++++++++++++++
- 2 files changed, 49 insertions(+)
+ src/Gui/trojita.appdata.xml | 45 +++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 46 insertions(+)
  create mode 100644 src/Gui/trojita.appdata.xml
 
 diff --git a/CMakeLists.txt b/CMakeLists.txt
-index 489c2ad..5461818 100644
+index 101eea3..a515474 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
 @@ -750,6 +750,7 @@ if(WITH_DESKTOP)
@@ -23,10 +23,10 @@ index 489c2ad..5461818 100644
  endif()
 diff --git a/src/Gui/trojita.appdata.xml b/src/Gui/trojita.appdata.xml
 new file mode 100644
-index 0000000..eb10387
+index 0000000..8b8e3e0
 --- /dev/null
 +++ b/src/Gui/trojita.appdata.xml
-@@ -0,0 +1,48 @@
+@@ -0,0 +1,45 @@
 +<?xml version="1.0" encoding="utf-8"?>
 +<component type="desktop">
 +  <id>trojita.desktop</id>
@@ -72,6 +72,6 @@ index 0000000..eb10387
 +    <binary>be.contacts</binary>
 +  </provides>
 +</component>
---
+-- 
 1.9.1
 
