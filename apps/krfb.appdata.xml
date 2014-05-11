@@ -1,14 +1,13 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>krfb.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Krfb</name>
   <summary>Desktop Sharing</summary>
   <description>
     <p>Krfb Desktop Sharing is a server application that allows you to share your current session with a user on another machine, who can use a VNC client to view or even control the desktop.</p>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=krfb</url>
   <url type="help">http://docs.kde.org/stable/en/kdenetwork/krfb/index.html</url>
   <screenshots>

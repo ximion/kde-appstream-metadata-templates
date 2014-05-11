@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kuiviewer.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>LGPL</project_license>
   <name>KUIViewer</name>
   <summary>Qt Designer UI File Viewer</summary>
@@ -12,7 +12,6 @@
       <li>Preview the UI using different Qt widget styles</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kuiviewer</url>
   <screenshots>
     <screenshot type="default">

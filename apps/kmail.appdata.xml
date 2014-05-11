@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kmail.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <name>KMail</name>
   <summary>Mail Client</summary>
   <description>
@@ -32,7 +32,6 @@
       <li>KMail supports Groupware functionality.</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmail</url>
   <url type="help">http://docs.kde.org/stable/en/kdepim/kmail/index.html</url>
   <screenshots>

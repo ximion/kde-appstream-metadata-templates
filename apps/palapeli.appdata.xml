@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>palapeli.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Palapeli</name>
+  <summary>Jigsaw puzzle game</summary>
+  <description>
+    <p>Palapeli is a single-player jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely moveable. Also, Palapeli features real persistency, i.e. everything you do is saved on your disk immediately.</p>
+  </description>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=palapeli</url>
+  <url type="help">http://docs.kde.org/stable/en/kdegames/palapeli/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/palapeli.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>palapeli</binary>
+  </provides>
+</component>

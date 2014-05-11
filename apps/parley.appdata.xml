@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<component type="desktop">
+  <id>parley.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Parley</name>
+  <summary>Vocabulary Trainer</summary>
+  <description>
+    <p>Parley is a program to help you memorize things. Parley supports many language specific features but can be used for other learning tasks just as well. It uses the spaced repetition learning method, also known as flash cards.</p>
+    <p>  Creating new vocabulary collections with Parley is easy,  but of course it is even better if you can use some of our premade files. Have a look at the KDE-Files.org page or use the &quot;Download New Collections&quot; feature directly.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Different test types</li>
+      <li>['Mixed Letters (order the letters, anagram like) to get to know new words', 'Multiple choice', 'Written tests - type the words (including clever correction mechanisms)', &quot;Example sentences can be used to create 'fill in the gap' tests&quot;, 'Article training', 'Comparison forms (adjectives and/or adverbs)', 'Conjugations', 'Synonym/Antonym/Paraphrase']</li>
+      <li>Fast test setup with all options in one dialog</li>
+      <li>More than two languages (for example English, Chinese Traditional and Chinese Simplified)</li>
+      <li>Find words (also by word type) quickly</li>
+      <li>Easy lesson management</li>
+      <li>Premade vocabulary files ready to use</li>
+      <li>Share and download vocabulary using Get Hot New Stuff</li>
+      <li>Open XML file format (shared with KWordQuiz, Kanagram and KHangMan) that can be edited by hand and is easily usable with scripts</li>
+    </ul>
+  </description>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=parley</url>
+  <url type="help">http://docs.kde.org/stable/en/kdeedu/parley/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/parley.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>parley</binary>
+  </provides>
+</component>

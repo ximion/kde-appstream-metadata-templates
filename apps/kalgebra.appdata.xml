@@ -1,14 +1,13 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kalgebra.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KAlgebra</name>
   <summary>Graph Calculator</summary>
   <description>
     <p>KAlgebra is a mathematical calculator based on content markup MathML language, capable to make simple MathML operations (arithmetic and logical) and to representate 2D and 3D graphs.</p>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kalgebra</url>
   <url type="help">http://docs.kde.org/stable/en/kdeedu/kalgebra/index.html</url>
   <screenshots>

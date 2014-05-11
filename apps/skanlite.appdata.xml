@@ -1,14 +1,13 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>skanlite.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Skanlite</name>
   <summary>Image Scanning Application</summary>
   <description>
     <p>Skanlite is a simple image scanning application that does nothing more than scan and save images, based on the KSane backend.</p>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=skanlite</url>
   <url type="help">http://docs.kde.org/development/en/extragear-graphics/skanlite/index.html</url>
   <screenshots>

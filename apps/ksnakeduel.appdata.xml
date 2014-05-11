@@ -1,14 +1,13 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>ksnakeduel.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KSnakeDuel</name>
   <summary>Tron-like Game</summary>
   <description>
     <p>KSnakeDuel is a simple Tron-Clone You can play KSnakeDuel against the computer or a friend. The aim of the game is to live longer than your opponent. To do that, avoid running into a wall, your own tail and that of your opponent.</p>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksnakeduel</url>
   <url type="help">http://docs.kde.org/stable/en/kdegames/ktron/index.html</url>
   <screenshots>

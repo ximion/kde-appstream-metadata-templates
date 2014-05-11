@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kaudiocreator.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>LGPL</project_license>
   <name>KAudioCreator</name>
   <summary>CD Ripper</summary>
@@ -14,7 +14,6 @@
       <li>Different filename formats using tags</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaudiocreator</url>
   <url type="help">http://docs.kde.org/development/en/extragear-multimedia/kaudiocreator/index.html</url>
   <screenshots>

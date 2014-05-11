@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>ktimetracker.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KTimeTracker</name>
   <summary>Personal Time Tracker</summary>
@@ -14,7 +14,6 @@
       <li>The time history can be exported to a comma-delimited text file for import into other billing and/or project management tools.</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktimetracker</url>
   <url type="help">http://docs.kde.org/stable/en/kdepim/ktimetracker/index.html</url>
   <screenshots>

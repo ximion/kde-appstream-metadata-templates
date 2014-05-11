@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kstars.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KStars</name>
   <summary>Desktop Planetarium</summary>
@@ -17,7 +17,6 @@
       <li>['Observing List tool to plan observations', 'FOV Editor helps calculate field of view of equipment and display them', 'ObtainAAVSO light curves for variable stars', &quot;What's up tonight tool&quot;, 'Altitude vs Time tool', 'Sky Calendar tool']</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kstars</url>
   <url type="help">http://docs.kde.org/stable/en/kdeedu/kstars/index.html</url>
   <screenshots>

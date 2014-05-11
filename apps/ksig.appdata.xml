@@ -1,14 +1,13 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>ksig.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KSig</name>
   <summary>Signature Editor</summary>
   <description>
     <p>KSig is a graphical tool for keeping track of many different email signatures. The signatures themselves can be edited through KSig's graphical user interface. A command-line interface is then available for generating random or daily signatures from a list. The command-line interface makes a suitable plugin for generating signatures in external mail clients such as KMail.</p>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksig</url>
   <url type="help">http://docs.kde.org/development/en/extragear-pim/ksig/index.html</url>
   <screenshots>

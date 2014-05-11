@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kaddressbook.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <name>KAddressBook</name>
   <summary>Contact Manager</summary>
   <description>
@@ -17,7 +17,6 @@
       <li>Powered by Akonadi</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaddressbook</url>
   <screenshots>
     <screenshot type="default">

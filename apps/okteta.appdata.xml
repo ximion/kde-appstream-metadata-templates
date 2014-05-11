@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>okteta.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <name>Okteta</name>
   <summary>Hex Editor</summary>
   <description>
@@ -38,7 +38,6 @@
       <li>Table with complete list of all byte values</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=okteta</url>
   <url type="help">http://docs.kde.org/stable/en/kdesdk/okteta/index.html</url>
   <screenshots>

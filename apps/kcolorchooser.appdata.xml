@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kcolorchooser.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>BSD</project_license>
   <name>KColorChooser</name>
   <summary>Color Chooser</summary>
@@ -14,7 +14,6 @@
       <li>Color values shown in Hue-Saturation-Value (HSV), Red-Green-Blue (RGB) and HTML formats.</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kcolorchooser</url>
   <url type="help">http://docs.kde.org/development/en/kde-runtime/fundamentals/colors.html</url>
   <screenshots>

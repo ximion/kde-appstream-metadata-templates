@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <component type="desktop">
   <id>kmplot.desktop</id>
-  <metadata_license>GFDL-1.2-without-invariant</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>KmPlot</name>
   <summary>Mathematical Function Plotter</summary>
@@ -24,7 +24,6 @@
       <li>['find minimum/maximum point', 'get y-value and draw the area between the function and the y-axis']</li>
     </ul>
   </description>
-  <url type="homepage"/>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmplot</url>
   <url type="help">http://docs.kde.org/stable/en/kdeedu/kmplot/index.html</url>
   <screenshots>
