@@ -15,7 +15,7 @@
       <li>Tabbed view to allow displaying several logs at the same time</li>
       <li>Auto display new lines logged</li>
       <li>Fast parsing and reading (more than 10000 lines each 5 seconds)</li>
-      <li>Detailed informations for each log lines</li>
+      <li>Detailed information for each log lines</li>
       <li>Quick filter</li>
       <li>Able to send a log message manually to the system.</li>
       <li>Save, copy to clipboard and printing are of course available.</li>

@@ -6,11 +6,11 @@
   <name>KColorChooser</name>
   <summary>Color Chooser</summary>
   <description>
-    <p>KColorChooser is a simple application to select the color from the screen or from a pallete.</p>
+    <p>KColorChooser is a simple application to select the color from the screen or from a palette.</p>
     <p>Features:</p>
     <ul>
       <li>Select colors from any location on the screen.</li>
-      <li>Select colors from a range of standard palletes available.</li>
+      <li>Select colors from a range of standard palettes available.</li>
       <li>Color values shown in Hue-Saturation-Value (HSV), Red-Green-Blue (RGB) and HTML formats.</li>
     </ul>
   </description>

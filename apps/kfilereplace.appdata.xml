@@ -6,7 +6,7 @@
   <name>KFileReplace</name>
   <summary>Search &amp; Replace Tool</summary>
   <description>
-    <p>KFileReplace is a very capable multi-line, mutli-file, multi-directory find and replace that can create backups, use wildcards and regexps.</p>
+    <p>KFileReplace is a very capable multi-line, multi-file, multi-directory find and replace that can create backups, use wildcards and regexps.</p>
   </description>
   <url type="homepage">http://kfilereplace.kdewebdev.org/</url>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kfilereplace</url>

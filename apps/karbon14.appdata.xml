@@ -10,9 +10,9 @@
     <ul>
       <li>Loading support for ODG, SVG, WPG, WMF, EPS/PS</li>
       <li>Writing support for ODG, SVG, PNG, PDF, WMF</li>
-      <li>Customizable user interface with freely placable toolbars and dockers2</li>
+      <li>Customizable user interface with freely placeable toolbars and dockers2</li>
       <li>Layer docker for easy handling of complex documents including preview thumbnails, support for grouping shapes via drag and drop, controlling visibility of shapes or locking</li>
-      <li>Advanced path editing tool with great on-canvas editing capabilies</li>
+      <li>Advanced path editing tool with great on-canvas editing capabilities</li>
       <li>Various drawing tools for creating path shapes including a draw path tool, a pencil tool as well as a calligraphy drawing tool</li>
       <li>Gradient and pattern tools for easy on-canvas editing of gradient and pattern styles</li>
       <li>Top notch snapping facilities for guided drawing and editing (e.g. snapping to grid, guide lines, path nodes, bounding boxes, orthogonal positions, intersections of path shapes or extensions of lines and paths)</li>

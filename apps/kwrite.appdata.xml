@@ -11,7 +11,7 @@
     <ul>
       <li>Syntax highlighting according to the file type</li>
       <li>Word completion</li>
-      <li>Auto-identation</li>
+      <li>Auto-indentation</li>
       <li>Plugin support</li>
       <li>Vi input mode</li>
     </ul>
