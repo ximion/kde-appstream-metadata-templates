@@ -10,7 +10,7 @@
     <p>Features:</p>
     <ul>
       <li>Canvas for Graph Drawing</li>
-      <li>IDE for Graph relatedd Programming, using Javascript as it's main laguage, plus the graph library</li>
+      <li>IDE for Graph related Programming, using Javascript as it's main language, plus the graph library</li>
       <li>Nodes, Graphs and Edges are extensible from the scripting interface, so you can do anything you want.</li>
     </ul>
   </description>

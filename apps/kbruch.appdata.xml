@@ -9,11 +9,11 @@
     <p>KBruch is a small program to practice calculating with fractions and percentages. Different exercises are provided for this purpose and you can use the learning mode to practice with fractions. The program checks the user's input and gives feedback.</p>
     <p>Features:</p>
     <ul>
-      <li>Arithmetic excercise - in this exercise you have to solve a given fraction task. You have to enter the numerator and the denominator. This is the main exercise.</li>
-      <li>Comparison excercise - in this exercise you have to compare the size of 2 given fractions, using the symbols &gt;, </li>
-      <li>Conversion excercise - in this exercise you have to convert a given number into a fraction.</li>
-      <li>Factorization excercise - in this exercise you have to factorize a given number into its prime factors.</li>
-      <li>Percentage excercise - in this exercise you have to calculate percentages.</li>
+      <li>Arithmetic exercise - in this exercise you have to solve a given fraction task. You have to enter the numerator and the denominator. This is the main exercise.</li>
+      <li>Comparison exercise - in this exercise you have to compare the size of 2 given fractions, using the symbols &gt;, </li>
+      <li>Conversion exercise - in this exercise you have to convert a given number into a fraction.</li>
+      <li>Factorization exercise - in this exercise you have to factorize a given number into its prime factors.</li>
+      <li>Percentage exercise - in this exercise you have to calculate percentages.</li>
     </ul>
   </description>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kbruch</url>
